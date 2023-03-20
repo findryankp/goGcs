@@ -1,5 +1,5 @@
 # Simple Google Cloud Storage - Golang
-Simple package to manage your image in Google Cloud Storage
+Simple package to manage your file in Google Cloud Storage
 
 **Development by:** 
 - Findryankp
